@@ -1,0 +1,28 @@
+name: Maria Benton Photography
+favicon: null
+layout_spectrum: 0.714908501598984
+typography_spectrum: 0.48058390407823026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7565686393063515
+  lightness: 0.7782461883034557
+  saturation: 0.06389068975113332
+  rhythmicContrast: 0.6524771619588137
+purpose: []
