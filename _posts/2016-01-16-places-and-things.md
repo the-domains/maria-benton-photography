@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Things and places I have seen
-datePublished: '2016-01-16T00:06:26.068Z'
-dateModified: '2016-01-16T00:05:52.908Z'
+datePublished: '2016-01-16T00:19:58.156Z'
+dateModified: '2016-01-16T00:19:45.159Z'
 title: 'Places & Things'
 author: []
+sourcePath: _posts/2016-01-16-places-and-things.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-places-and-things.md
-published: true
-url: places-and-things/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53478900-4ced-40f8-8f5c-610a21978ddf.png)
