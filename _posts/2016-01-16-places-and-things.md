@@ -1,48 +1,48 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Things and places I have seen
-datePublished: '2016-01-16T00:20:01.969Z'
-dateModified: '2016-01-16T00:20:01.476Z'
+description: I stopped for a minute - to look at the world around me.
+datePublished: '2016-01-16T01:35:58.221Z'
+dateModified: '2016-01-16T01:35:03.330Z'
 title: 'Places & Things'
 author: []
-sourcePath: _posts/2016-01-16-places-and-things.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-_type: Blurb
+sourcePath: _posts/2016-01-16-places-and-things.md
+published: true
+url: places-and-things/index.html
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53478900-4ced-40f8-8f5c-610a21978ddf.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bb85610-650f-4182-ad4a-351e31fa3703.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7026105d-0c30-4770-8afc-665d6d2bb55a.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e198b24c-3d94-415c-ab0c-80e768c7e572.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2767bdac-ed6a-4627-b173-3bdc0c6ec195.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d453db8-a574-477e-9d98-88d1396b8399.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e408968-fdd2-4f32-bed1-893607e56cbb.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f4c072-fc1c-40a2-8649-10a54e839907.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f1e827e-82f2-4a15-ab04-82ecc1561a39.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80a75190-75d1-432e-9535-4acac8db849b.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca3c9e5d-daa9-4e32-b993-ae888fc5d6e8.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92699033-032f-47f7-bab1-7b339de637ef.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6a8c924-e9e6-4dab-bb1f-0690068b9176.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe4cbf2-1595-4b63-a6f6-b0a06387a0f2.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df14d8e1-8899-4034-8ae9-24493a86bd7d.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db2afb76-94f5-4c48-8f40-e8c0b0bb8502.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aff2aa2-722f-4101-b910-d9216eeeed9e.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7be20a-f53f-452e-b25a-a45ff81a7b27.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbcda77d-255a-4afb-bdb1-915b21b50f38.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a7c719c-44d7-4068-a9f3-87939f046a48.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c35a684-bdb4-4cca-9920-af0343cd8381.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2707c135-a079-4c62-a697-18bb3f66dc8d.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05fe808-8836-4345-9613-6a56ac26cdcf.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69397216-863c-4c1f-87be-8960452a90b3.png)
+Places & Things
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6f3c43a-55a7-4384-909c-26366a1328d0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cab52720-19d6-4d62-bce9-359249ecb697.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee7d15a-4074-4570-bdb9-5fe34790b8ae.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14e699d4-992c-4143-8a42-6220e648f8a1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a0ee774-ba37-47bd-b6aa-efc1876f4732.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30d4a88d-e94a-4919-a3c0-f9257a106c1f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/220b1188-6506-46e6-8a04-390b98cfe8b4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54ef60b3-4b90-47a8-8a0e-f1776a3f33f8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a9dff3-515d-4110-84a3-dbdf7302ab87.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042fa3f9-32d0-4eb2-b586-fa06ee1048f7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa2cb1e4-c2cf-414e-9684-327bbce32248.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1885ac2a-9f52-470d-9aae-f8290f32ff46.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d773938-d2b1-4980-a98a-8620aac91a21.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/475de98f-92af-449b-a027-aca9c2d62634.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ef7a2c2-67ce-4727-a703-a0b17014681b.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b26f49-4801-43fd-9298-68a152b6e126.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfb42965-9154-4a9e-9150-3439f3373b79.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1af89c51-5e5b-4289-af7e-f58007db22b0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14165fa0-7fb9-413f-b3f8-6f703c2099e8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f06c700-d2b4-4944-98e9-d4e435dbc91c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4722fa8-5c76-478a-aae9-33051f877867.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c348d1c6-2bf3-4591-b952-7ac121bf362a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95243ad9-e905-4916-8a9a-2c50f3837b61.png)
