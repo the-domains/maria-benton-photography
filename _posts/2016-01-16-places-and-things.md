@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Things and places I have seen
-datePublished: '2016-01-16T00:20:01.024Z'
-dateModified: '2016-01-16T00:19:59.929Z'
+datePublished: '2016-01-16T00:20:01.476Z'
+dateModified: '2016-01-16T00:20:01.024Z'
 title: 'Places & Things'
 author: []
 sourcePath: _posts/2016-01-16-places-and-things.md
