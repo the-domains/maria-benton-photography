@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: I stopped for a minute - to look at the world around me.
-datePublished: '2016-01-18T17:26:02.595Z'
-dateModified: '2016-01-18T17:25:58.873Z'
+datePublished: '2016-01-18T17:42:24.062Z'
+dateModified: '2016-01-18T17:41:56.151Z'
 title: 'Places & Things'
 author: []
 sourcePath: _posts/2016-01-16-places-and-things.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: places-and-things/index.html
-_type: Article
+_type: WebPage
 
 ---
 Places & Things
