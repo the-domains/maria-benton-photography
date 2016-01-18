@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Maria Benton Photography]]></title>
         <description><![CDATA[Maria Benton Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maria-benton-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 17:21:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 17:25:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maria-benton-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Customers]]></title>
+            <description><![CDATA[<article><h1>Customers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/308da0cf1e8cc14c8be82f8c59ceeabab9507da1.png"></article>]]></description>
+            <link>https://thegrid.ai/maria-benton-photography/customers/index.html</link>
+            <guid isPermaLink="false">cda07f68-0c8f-49a8-be6f-60414de92bd2</guid>
+            <pubDate>Mon, 18 Jan 2016 17:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maria Benton Photography]]></title>
-            <description><![CDATA[<article><h1>Maria Benton Photography</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04d18ee0150cbf287bf2090174efb225ecbb4db3.png"></article>]]></description>
-            <link>undefinedmaria-benton-photography/index.html</link>
+            <description><![CDATA[<article><h1>Maria Benton Photography</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43dcbd2bbe7ca15d38808d4e98db8f82dea68446.png"></article>]]></description>
+            <link>https://thegrid.ai/maria-benton-photography/maria-benton-photography/index.html</link>
             <guid isPermaLink="false">aaadb847-72fa-4c79-a1d6-bf3a60ee1013</guid>
             <pubDate>Mon, 18 Jan 2016 17:20:51 GMT</pubDate>
         </item>
