@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T17:20:39.944Z'
-dateModified: '2016-01-18T17:17:28.329Z'
+datePublished: '2016-01-18T17:25:32.229Z'
+dateModified: '2016-01-18T17:25:27.922Z'
 title: Customers
 author: []
+sourcePath: _posts/2016-01-18-customers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-customers.md
-published: true
 url: customers/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a194907-bf42-4580-aaf7-ff4ceaa7ece0.png)
