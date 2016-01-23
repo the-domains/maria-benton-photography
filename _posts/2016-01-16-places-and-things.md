@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: I stopped for a minute - to look at the world around me.
-datePublished: '2016-01-23T16:22:25.445Z'
+datePublished: '2016-01-23T16:22:25.493Z'
 dateModified: '2016-01-23T16:22:19.345Z'
 title: 'Places & Things'
 author: []
