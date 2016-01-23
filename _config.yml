@@ -19,10 +19,10 @@ color:
     - '#53322d'
     - '#f48a71'
     - '#e7d3d3'
+    - '#000000'
     - '#ff0000'
-    - '#808000'
   brandStrength: 1
-  lightness: 0
-  saturation: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
